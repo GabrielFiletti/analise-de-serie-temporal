@@ -14,3 +14,4 @@ Escolha um dos datasets apresentados (clima, passageiros, nascimentos-passaros, 
 * modifique o shape de entrada para se adequar a rede neural
 * monte uma rede neural RNN para predicao
 * modifique essa rede neural para utilizar uma camada LSTM
+* Mostre o RMSE da predicao
